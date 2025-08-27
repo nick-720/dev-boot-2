@@ -1,5 +1,7 @@
 # voting-dapp1
 
+Hello, World!
+
 This is a Next.js app containing:
 
 - Tailwind CSS setup for styling
